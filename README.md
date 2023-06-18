@@ -1,6 +1,6 @@
 # Carlos Corona
-## Data Scientist
-Data Engineer
+## Data Scientist/Data Engineer
+## Physics Engineer
 
 ---
 
