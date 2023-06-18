@@ -1,7 +1,7 @@
 # Carlos Corona
 ## Data Scientist and Data Engineer
 
-![Profile Picture](CarlosCoronaPic.jpg)
+![Profile Picture]([CarlosCoronaPic.jpg](https://raw.githubusercontent.com/<carlosdcorona>/<avatar>/main/<CarlosCoronaPic>))
 
 ---
 
