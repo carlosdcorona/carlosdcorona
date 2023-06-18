@@ -1,5 +1,7 @@
 # Carlos Corona
-## Data Scientist and Data Engineer
+## Data Scientist
+Data Engineer
+
 ---
 
 ## Introduction
