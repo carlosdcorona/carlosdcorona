@@ -1,4 +1,12 @@
 # Carlos Corona
+
+
+---
+
+## Introduction
+Welcome to my GitHub profile! I'm a passionate data scientist and data engineer with expertise in Python and SQL. I enjoy leveraging data to gain insights and solve complex problems. In this README, you'll find information about my projects, skills, and contributions.
+
+---
 ## Data Scientist/Data Engineer
 
 Data Scientist and Data Engineer with a passion for leveraging data to drive insights and make informed decisions. I have a strong background in applying advanced analytics and machine learning techniques to solve complex problems.
@@ -15,12 +23,6 @@ As a Physics Engineer, I possess a broad range of technical skills that enable m
 One of my key strengths lies in computational modeling and simulation. I am proficient in using programming languages such as Python and MATLAB to develop simulation models and conduct numerical experiments. I have experience in simulating physical systems, optimizing designs, and analyzing system behavior through advanced simulations.
 
 With a strong background in physics and engineering, I possess excellent problem-solving and analytical thinking abilities. I enjoy breaking down complex problems into manageable components, developing innovative solutions, and leveraging scientific methodologies to validate and optimize outcomes. I have a natural curiosity and a drive to understand the underlying principles behind observed phenomena.
-
-
----
-
-## Introduction
-Welcome to my GitHub profile! I'm a passionate data scientist and data engineer with expertise in Python and SQL. I enjoy leveraging data to gain insights and solve complex problems. In this README, you'll find information about my projects, skills, and contributions.
 
 ---
 
@@ -47,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and data engineer 
 - Technologies Used: Python, PyTorch
 - Repository: [German Traffic Sign Benchmark](https://github.com/carlosdcorona/German-Traffic-Sign-Benchmark)
 
-
+---
 
 ## Contact Information
 Feel free to reach out to me for collaboration or any inquiries:
