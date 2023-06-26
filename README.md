@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and data engineer 
 ---
 
 ## Skills
-- Programming Languages: Python, SQL
+- Programming Languages: VBA, Matlab, Python, SQL
 - Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Database Technologies: SQL, MySQL, PostgreSQL
