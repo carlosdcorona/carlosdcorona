@@ -4,7 +4,7 @@
 ---
 
 ## Introduction
-Welcome to my GitHub profile! I'm a passionate data scientist and data engineer with expertise in Python and SQL. I enjoy leveraging data to gain insights and solve complex problems. In this README, you'll find information about my projects, skills, and contributions.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Data Engineer with expertise in Python and SQL. I enjoy leveraging data to gain insights and solve complex problems. In this README, you'll find information about my projects, skills, and contributions.
 
 ---
 ## Data Scientist/Data Engineer
